@@ -20,12 +20,12 @@ A random set of 2,000 latitudes and longitudes were generated, and an API call w
 
 The following data was retrieved from the API call:
 
-** Latitude and longitude
-** Maximum temperature
-** Percent humidity
-** Percent cloudiness
-** Wind speed
-** Current Weather description
+* Latitude and longitude
+* Maximum temperature
+* Percent humidity
+* Percent cloudiness
+* Wind speed
+* Current Weather description
 
 ##### Using code: city_data_df.head(10) to retrieve our DataFrame
 ![First 10 items of City & Weather DataFrame](https://github.com/doliver231/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database_head10.png)
@@ -44,5 +44,5 @@ Using the Google Directions API, a sample itinerary was created that shows the r
 
 ![Rountrip directions route between 4 cities](https://github.com/doliver231/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
-##### Each city marker reveals descriptive info inlcuding hotel name & temperature
+##### Each city marker reveals descriptive info including city, country, hotel name & current weather
 ![Itinerary city markers](https://github.com/doliver231/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
