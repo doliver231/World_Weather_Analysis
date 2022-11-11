@@ -28,14 +28,14 @@ The following data was retrieved from the API call:
 ** Current Weather description
 
 ##### Using code: city_data_df.head(10) to retrieve our DataFrame
-![First 10 items of City & Weather DataFrame]()
+![First 10 items of City & Weather DataFrame](https://github.com/doliver231/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database_head10.png)
 
 ### Vacation Search
 
 Based on traveler’s weather preferences, travelers can identify potential travel destinations and nearby hotels. The map showcases destinations using pop-up markers on a marker layer-map.
 
 ##### An interactive map with markers was created based on the specific minimum and maximum temperatures input by the user:
-![User Input]()
+![User Input](https://github.com/doliver231/World_Weather_Analysis/blob/main/Vacation_Search/User_input.png)
 ![GMap with Markers after user input temperatures](https://github.com/doliver231/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Vacation Itinerary
